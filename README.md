@@ -26,8 +26,8 @@ This Streamlit app allows you to draw a signature or upload an image for text re
    ```bash
    streamlit run app.py
 
-5. Make use of the app and if you like it, Give it a star. :) To connect with me:
-   ```bash
-    -> LinkedIN : https://linkedin.com/in/rsharvesh16
-    -> Twitter : https://twitter.com/rsharvesh16
+5. Make use of the app and if you like it, give it a star. To connect with me:
+
+   - [LinkedIn](https://linkedin.com/in/rsharvesh16)
+   - [Twitter](https://twitter.com/rsharvesh16)
   
